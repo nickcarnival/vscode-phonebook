@@ -1,0 +1,34 @@
+{
+  "name": "phonebook-theme",
+  "scripts": {
+    "package": "vsce package"
+  },
+  "displayName": "phonebook-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickcarnival"
+  },
+  "publisher": "nickcarnival",
+  "description": "temp description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phonebook Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/phonebook-dark-color-theme.json"
+      },
+      {
+        "label": "Phonebook Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/phonebook-color-theme.json"
+      }
+    ]
+  }
+}
