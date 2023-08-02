@@ -1,7 +1,7 @@
 {
   "name": "phonebook-theme",
   "scripts": {
-    "package": "vsce package"
+    "package": "vsce package -o ./releases/"
   },
   "displayName": "phonebook-theme",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "publisher": "nickcarnival",
   "description": "temp description",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.0.0"
   },
