@@ -1,7 +1,7 @@
 {
   "name": "phonebook-theme",
   "scripts": {
-    "package": "vsce package -o ./releases/"
+    "build": "vsce package -o ./releases/"
   },
   "displayName": "phonebook-theme",
   "repository": {
