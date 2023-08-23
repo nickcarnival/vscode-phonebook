@@ -6,10 +6,10 @@
   "displayName": "phonebook-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nickcarnival"
+    "url": "https://github.com/nickcarnival/vscode-phonebook"
   },
   "publisher": "nickcarnival",
-  "description": "temp description",
+  "description": "A VSCode theme with lots of brown",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.0.0"
