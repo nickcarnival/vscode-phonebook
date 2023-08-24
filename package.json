@@ -1,7 +1,7 @@
 {
   "name": "phonebook-theme",
   "scripts": {
-    "build": "vsce package -o ./releases/"
+    "package": "vsce package -o ./releases/"
   },
   "displayName": "phonebook-theme",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "publisher": "nickcarnival",
   "description": "A VSCode theme with lots of brown",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -30,5 +30,8 @@
         "path": "./themes/phonebook-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.20.1"
   }
 }
