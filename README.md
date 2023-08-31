@@ -27,3 +27,16 @@ vsce package
 - [x] scrollbar / ruler hover is blue
 - [x] syntax highlighting is too dull c
 - [x] preview windows are too bright
+
+## Manual JSON Additions:
+
+> These are colors that I manually change after generating the json from [themes.vscode.one](https://themes.vscode.one).
+
+```json
+"settings.sashBorder": "#b69d7c",
+"sash.hoverBorder": "#b69d7c"
+```
+
+## Recommendations
+
+- Turn whitespace rendering off by opening the [Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) with `Ctrl+Shift+P` and search for `Toggle Render Whitespace`.
