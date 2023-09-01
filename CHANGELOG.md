@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "phonebook-theme" extension will be documented in this file.
+All notable changes to the [vscode-phonebook](https://github.com/nickcarnival/vscode-phonebook) extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [1.0.0]()
+## 1.1.1
 
 - Initial release

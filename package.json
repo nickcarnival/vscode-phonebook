@@ -4,7 +4,6 @@
     "package": "vsce package -o ./releases/",
     "publish": "vsce publish"
   },
-  "displayName": "phonebook-theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/nickcarnival/vscode-phonebook.git"
@@ -15,14 +14,20 @@
     "url": "https://www.github.com/nickcarnival/vscode-phonebook/issues"
   },
   "publisher": "nick-carnival",
+  "displayName": "Phonebook Theme",
   "description": "A VSCode theme with lots of brown",
-  "version": "1.0.2",
+  "galleryBanner": {
+    "color": "#5d4e3c",
+    "theme": "dark"
+  },
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/logo.png",
   "contributes": {
     "themes": [
       {
