@@ -5,7 +5,9 @@
 A theme for VSCode inspired by [Primary Theme for Obsidian](https://github.com/ceciliamay/obsidianmd-theme-primary) without the fancy icons or polish.
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-orange)](https://vscode.dev/theme/nick-carnival.phonebook-theme)
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnickcarnival%2Fvscode-phonebook%2Fmain%2Fpackage.json&query=version&label=Visual%20Studio%20Marketplace&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dnick-carnival.phonebook-theme%26ssr%3Dfalse%23overview">
+<a href="https://marketplace.visualstudio.com/items?itemName=nick-carnival.phonebook-theme&ssr=false#overview">
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnickcarnival%2Fvscode-phonebook%2Fmain%2Fpackage.json&query=version&label=Visual%20Studio%20Marketplace">
+</a>
 
 ## Screenshots
 
