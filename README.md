@@ -1,12 +1,19 @@
 # [Phonebook Theme for VSCode](https://marketplace.visualstudio.com/items?itemName=nick-carnival.phonebook-theme&ssr=false#overview)
 
-> A theme for VSCode inspired by [Primary Theme for Obsidian](https://github.com/ceciliamay/obsidianmd-theme-primary) without the fancy icons or polish.
-
 ## [Github](https://github.com/nickcarnival/vscode-phonebook)
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnickcarnival%2Fvscode-phonebook%2Fmain%2Fpackage.json&query=version&label=Visual%20Studio%20Marketplace&color=%234dadd5&link=%3Ca%20href%3D%22https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dnick-carnival.phonebook-theme) [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-orange)](https://vscode.dev/theme/nick-carnival.phonebook-theme)
+A theme for VSCode inspired by [Primary Theme for Obsidian](https://github.com/ceciliamay/obsidianmd-theme-primary) without the fancy icons or polish.
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnickcarnival%2Fvscode-phonebook%2Fmain%2Fpackage.json&query=version&label=Visual%20Studio%20Marketplace&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dnick-carnival.phonebook-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-orange)](https://vscode.dev/theme/nick-carnival.phonebook-theme)
+
+## Screenshots
+
+### Dark
 
 ![](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/f8egwJh7BkYm7oyptKjb70jFNB53/3FuLHTAt-default.jpeg)
+
+### Light
 
 ![](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/f8egwJh7BkYm7oyptKjb70jFNB53/esE8uUrS-commandPalette.jpeg)
 
