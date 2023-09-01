@@ -110,4 +110,3 @@
     --color-highlight-violet: rgba(113, 122, 255, 0.2);
 }
 ```
-
